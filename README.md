@@ -2,6 +2,8 @@
 
 I love Lies of P, however it has some shit balancing. This git repo puts some mods together and provides a launcher for Linux.
 
+Oh yeah make sure to pick the right P-Organ upgrades cause some of them should be there by default.
+
 -   **No Random Damage**<br />
     The game does `+- 10% damage`. No other souls game does. Hits should be consistent. Test this at Hotel Krat on a dummy.<br />
     https://www.nexusmods.com/liesofp/mods/175
